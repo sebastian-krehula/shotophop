@@ -1,0 +1,163 @@
+*{
+    font-family: 'Bebas Neue', cursive;
+}
+
+nav{
+    text-align: center;
+    font-size: 30px;
+}
+
+nav a {
+    display:inline-block;
+    border-style: solid;
+    padding-left: 70px;
+    padding-right: 70px;
+    text-decoration: none;
+    color: black;
+}
+
+#slonko-balonko{
+    width: 500px;
+    height: auto;
+    margin: 20px;
+}
+
+#gopnik{
+    height: 150px;
+    width: auto;
+    position: relative;
+    right: 80px;
+    top: 100px;
+}
+
+#gopnik2{
+    height: 150px;
+    width: auto;
+    position: relative;
+    right: 80px;
+    top: 80px;
+}
+
+main p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+main h2{
+    font-size: 40px;
+    margin: 20px;
+}
+
+#jebeni-paragrafi{
+    display: block;
+    margin-left: 105px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: #F86AA4;
+    text-shadow: 0.5px 0.5px black;
+}
+
+header section h1{
+    font-size: 50px;
+    margin: 20px;
+}
+
+#kurac-kad-sam-odustal{
+    border-style: solid;
+    margin-top: 5px;
+    width: 1135px;
+    display: inline-flex;
+    margin-left: 132px;
+}
+
+#kurac-kad-sam-odustal #sotofop{
+    width: 250px;
+    height: 250px;
+    justify-content: center;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+
+#kurac-kad-sam-odustal #prvo h1{
+    display: flex;
+    flex-direction: row;
+    font-size: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#kurac-kad-sam-odustal #drugo h1{
+    display: flex;
+    flex-direction: row;
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-left: 180px;
+    margin-right: 30px;
+}
+
+#kurac-kad-sam-odustal #drugo #odjebi{
+    margin-top: 80px;
+}
+
+#kurac-kad-sam-odustal #drugo #mamlaz{
+    font-size: 100px;
+    color: #F86AA4;
+    text-shadow: 6px 6px black;
+}
+
+main img{
+    width: 200px;
+    height: auto;
+}
+
+#slonko{
+    height: 181.833px;
+}
+
+main{
+    border-style: solid;
+    margin-top: 5px;
+    width: 1135px;
+    margin-left: 132px;
+}
+
+main section section{
+    margin-left: 64px;
+    margin-right: 64px;
+}
+
+#kocka img{
+    box-shadow: 6px 6px 6px black;
+    border-style: solid;
+}
+
+#linija{
+    display: inline-flex;
+}
+
+.prvo{
+    margin-top: 50px;
+}
+
+#tutorial-glavi-debil{
+    height: 570px;
+}
+
+footer{
+    border-style: solid;
+    margin-top: 5px;
+    width: 1135px;
+    margin-left: 132px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer img{
+    height: 120px;
+    width: auto;
+}
+
